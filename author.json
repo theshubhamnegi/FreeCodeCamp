@@ -1,7 +1,4 @@
 {
-  "author" : "shubham"
-}
-{
   "name": "fcc-learn-npm-package-json",
   "author": "foobar",
   "dependencies": {
